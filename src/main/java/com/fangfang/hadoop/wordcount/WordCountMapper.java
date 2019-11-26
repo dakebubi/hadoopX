@@ -1,4 +1,4 @@
-/*
+package com.fangfang.hadoop.wordcount;/*
  * Copyright (c) 2001-2019 GuaHao.com Corporation Limited. All rights reserved.
  * This software is the confidential and proprietary information of GuaHao Company.
  * ("Confidential Information").
